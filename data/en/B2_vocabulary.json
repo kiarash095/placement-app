@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+          "level": "B2",
+  "skill": "vocabulary",
+
+      "question": "The company plans to ___ a detailed investigation into the issue.",
+      "options": ["carry out", "take over", "make up", "break down"],
+      "answer": "carry out"
+    },
+    {
+      "id": 2,
+       "level": "B2",
+  "skill": "vocabulary",
+
+      "question": "He has a very positive ___ towards life.",
+      "options": ["attitude", "habit", "emotion", "condition"],
+      "answer": "attitude"
+    },
+    {
+      "id": 3,
+       "level": "B2",
+  "skill": "vocabulary",
+
+      "question": "The teacher encouraged the students to ___ responsibility for their learning.",
+      "options": ["take", "do", "make", "give"],
+      "answer": "take"
+    },
+    {
+      "id": 4,
+       "level": "B2",
+  "skill": "vocabulary",
+
+      "question": "They ran ___ some old friends while on vacation in Italy.",
+      "options": ["into", "onto", "away", "after"],
+      "answer": "into"
+    },
+    {
+      "id": 5,
+       "level": "B2",
+  "skill": "vocabulary",
+
+       "level": "B2",
+  "skill": "vocabulary",
+
+      "question": "The new manager introduced a different ___ to solving the problem.",
+      "options": ["approach", "reaction", "target", "design"],
+      "answer": "approach"
+    },
+    {
+      "id": 6,
+       "level": "B2",
+  "skill": "vocabulary",
+
+       "level": "B2",
+  "skill": "vocabulary",
+
+      "question": "There has been a clear ___ in people’s eating habits over the last decade.",
+      "options": ["trend", "move", "speed", "scale"],
+      "answer": "trend"
+    },
+    {
+      "id": 7,
+       "level": "B2",
+  "skill": "vocabulary",
+
+       "level": "B2",
+  "skill": "vocabulary",
+
+      "question": "In her speech, she tried to ___ the importance of education.",
+      "options": ["emphasize", "argue", "advise", "define"],
+      "answer": "emphasize"
+    },
+    {
+      "id": 8,
+       "level": "B2",
+  "skill": "vocabulary",
+
+      "question": "His performance was ___ by a lack of experience.",
+      "options": ["limited", "lacking", "weak", "delayed"],
+      "answer": "limited"
+    },
+    {
+      "id": 9,
+       "level": "B2",
+  "skill": "vocabulary",
+
+      "question": "He made a strong ___ to improve the team’s performance.",
+      "options": ["effort", "plan", "choice", "goal"],
+      "answer": "effort"
+    },
+    {
+      "id": 10,
+       "level": "B2",
+  "skill": "vocabulary",
+
+      "question": "The report was written in a very ___ style.",
+      "options": ["formal", "general", "normal", "regular"],
+      "answer": "formal"
+    }
+  ]
+

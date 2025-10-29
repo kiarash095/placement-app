@@ -1,0 +1,138 @@
+ [
+    {
+      "id": 1,
+        "level": "B1",
+        "skill": "grammar",
+
+      "question": "I ___ already seen that movie.",
+      "options": ["have", "had", "has", "did"],
+      "answer": "have"
+    },
+    {
+      "id": 2,
+       "level": "B1",
+        "skill": "grammar",
+
+      "question": "She ___ to the gym every day last month.",
+      "options": ["went", "has gone", "goes", "was going"],
+      "answer": "went"
+    },
+    {
+      "id": 3,
+       "level": "B1",
+        "skill": "grammar",
+
+      "question": "Look at those clouds! It ___ rain soon.",
+      "options": ["is going to", "will", "can", "might"],
+      "answer": "is going to"
+    },
+    {
+      "id": 4,
+       "level": "B1",
+        "skill": "grammar",
+
+      "question": "If I had more time, I ___ travel the world.",
+      "options": ["would", "will", "can", "could"],
+      "answer": "would"
+    },
+    {
+      "id": 5,
+       "level": "B1",
+        "skill": "grammar",
+
+      "question": "The cake ___ by my sister yesterday.",
+      "options": ["was baked", "bakes", "is baking", "baked"],
+      "answer": "was baked"
+    },
+    {
+      "id": 6,
+       "level": "B1",
+        "skill": "grammar",
+
+      "question": "She said she ___ come to the party.",
+      "options": ["would", "will", "can", "shall"],
+      "answer": "would"
+    },
+    {
+      "id": 7,
+       "level": "B1",
+        "skill": "grammar",
+
+      "question": "You ___ eat so much sugar. It’s not healthy.",
+      "options": ["shouldn’t", "must", "can", "may"],
+      "answer": "shouldn’t"
+    },
+    {
+      "id": 8,
+       "level": "B1",
+        "skill": "grammar",
+
+      "question": "The man ___ lives next door is a teacher.",
+      "options": ["who", "which", "where", "whom"],
+      "answer": "who"
+    },
+    {
+      "id": 9,
+       "level": "B1",
+        "skill": "grammar",
+
+      "question": "This soup is too hot ___ eat.",
+      "options": ["to", "for", "enough", "than"],
+      "answer": "to"
+    },
+    {
+      "id": 10,
+       "level": "B1",
+        "skill": "grammar",
+
+      "question": "She didn’t come to class because she ___ sick.",
+      "options": ["was", "is", "has been", "would be"],
+      "answer": "was"
+    },
+    {
+      "id": 11,
+       "level": "B1",
+        "skill": "grammar",
+
+      "question": "I wish I ___ taller.",
+      "options": ["were", "am", "will be", "was being"],
+      "answer": "were"
+    },
+    {
+      "id": 12,
+       "level": "B1",
+        "skill": "grammar",
+
+      "question": "We ___ finished the project by next Friday.",
+      "options": ["will have", "have", "will", "had"],
+      "answer": "will have"
+    },
+    {
+      "id": 13,
+       "level": "B1",
+        "skill": "grammar",
+
+      "question": "The phone ___ while I was taking a shower.",
+      "options": ["rang", "rings", "was ringing", "has rung"],
+      "answer": "rang"
+    },
+    {
+      "id": 14,
+       "level": "B1",
+        "skill": "grammar",
+
+      "question": "It was ___ a beautiful day that we stayed outside all afternoon.",
+      "options": ["such", "so", "too", "very"],
+      "answer": "such"
+    },
+    {
+      "id": 15,
+       "level": "B1",
+        "skill": "grammar",
+
+      "question": "He might ___ the meeting if he finishes work early.",
+      "options": ["attend", "attended", "attending", "to attend"],
+      "answer": "attend"
+    }
+  ]
+

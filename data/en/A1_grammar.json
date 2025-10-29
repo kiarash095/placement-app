@@ -1,0 +1,93 @@
+ [
+    {
+      "id": 1,
+      "level": "A1",
+        "skill": "grammar",
+
+      "question": "He ___ like coffee.",
+      "options": ["doesn’t", "don’t", "isn’t", "hasn’t"],
+      "answer": "doesn’t"
+    },
+    {
+      "id": 2,
+      "level": "A1",
+        "skill": "grammar",
+
+      "question": "___ you play football?",
+      "options": ["Do", "Does", "Are", "Have"],
+      "answer": "Do"
+    },
+    {
+      "id": 3,
+      "level": "A1",
+        "skill": "grammar",
+
+      "question": "This is ___ pencil.",
+      "options": ["my", "me", "mine", "I"],
+      "answer": "my"
+    },
+    {
+      "id": 4,
+      "level": "A1",
+        "skill": "grammar",
+
+      "question": "We ___ lunch at 12 o’clock.",
+      "options": ["have", "has", "do", "eat"],
+      "answer": "have"
+    },
+    {
+      "id": 5,
+      "level": "A1",
+        "skill": "grammar",
+
+      "question": "She ___ go to school on Sundays.",
+      "options": ["doesn’t", "isn’t", "don’t", "hasn’t"],
+      "answer": "doesn’t"
+    },
+    {
+      "id": 6,
+      "level": "A1",
+        "skill": "grammar",
+
+      "question": "The book is ___ the table.",
+      "options": ["on", "in", "under", "between"],
+      "answer": "on"
+    },
+    {
+      "id": 7,
+      "level": "A1",
+        "skill": "grammar",
+
+      "question": "The dog is ___ the bed.",
+      "options": ["under", "next", "between", "at"],
+      "answer": "under"
+    },
+    {
+      "id": 8,
+      "level": "A1",
+        "skill": "grammar",
+
+      "question": "The school is ___ the supermarket.",
+      "options": ["next to", "on", "in", "from"],
+      "answer": "next to"
+    },
+    {
+      "id": 9,
+      "level": "A1",
+        "skill": "grammar",
+
+      "question": "We go ___ school at 7 a.m.",
+      "options": ["to", "at", "in", "on"],
+      "answer": "to"
+    },
+    {
+      "id": 10,
+      "level": "A1",
+        "skill": "grammar",
+
+      "question": "She comes home ___ work.",
+      "options": ["from", "in", "at", "under"],
+      "answer": "from"
+    }
+  ]
+

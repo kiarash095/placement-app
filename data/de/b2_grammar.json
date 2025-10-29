@@ -1,0 +1,89 @@
+[
+  {
+    "id": 11001,
+    "level": "B2",
+    "skill": "grammar",
+    "question": "Wenn ich mehr Zeit gehabt hätte, ___ ich dir früher geholfen.",
+    "options": ["hätte", "würde", "hätte ich", "würde ich"],
+    "answer": "hätte"
+  },
+  {
+    "id": 11002,
+    "level": "B2",
+    "skill": "grammar",
+    "question": "Die Frau, ___ ich gestern gesprochen habe, arbeitet jetzt in Berlin.",
+    "options": ["mit der", "die", "der", "welche"],
+    "answer": "mit der"
+  },
+  {
+    "id": 11003,
+    "level": "B2",
+    "skill": "grammar",
+    "question": "Nicht nur das Wetter war schlecht, ___ auch die Stimmung war miserabel.",
+    "options": ["sondern", "aber", "denn", "sondern auch"],
+    "answer": "sondern auch"
+  },
+  {
+    "id": 11004,
+    "level": "B2",
+    "skill": "grammar",
+    "question": "Je länger man wartet, ___ schwieriger wird die Entscheidung.",
+    "options": ["desto", "je", "so", "umso"],
+    "answer": "desto"
+  },
+  {
+    "id": 11005,
+    "level": "B2",
+    "skill": "grammar",
+    "question": "Die Bewerbung muss bis Ende des Monats ___ werden.",
+    "options": ["eingereicht", "einreichen", "eingereicht sein", "einreichte"],
+    "answer": "eingereicht"
+  },
+
+  {
+    "id": 11006,
+    "level": "B2",
+    "skill": "grammar",
+    "question": "Nachdem er die Präsentation beendet hatte, ___ er die Fragen der Teilnehmer.",
+    "options": ["beantwortete", "hat beantwortet", "beantworten", "beantwortet"],
+    "answer": "beantwortete"
+  },
+  {
+    "id": 11007,
+    "level": "B2",
+    "skill": "grammar",
+    "question": "Die Entscheidung über das Projekt wurde nach langer Diskussion ___.",
+    "options": ["getroffen", "besucht", "gemacht", "genommen"],
+    "answer": "getroffen"
+  },
+  {
+    "id": 11008,
+    "level": "B2",
+    "skill": "grammar",
+    "question": "___ der vielen Probleme blieb er ruhig und professionell.",
+    "options": ["Trotz", "Weil", "Obwohl", "Während"],
+    "answer": "Trotz"
+  },
+  {
+    "id": 11009,
+    "level": "B2",
+    "skill": "grammar",
+    "question": "Die Teilnehmer mussten einen Bericht schreiben, der die Ergebnisse der Studie zusammenfasst. → **Nominalisierte Form**?",
+    "options": [
+      "Die Teilnehmer mussten einen zusammenfassenden Bericht der Studienergebnisse schreiben.",
+      "Die Teilnehmer mussten eine Studie über die Ergebnisse berichten.",
+      "Die Teilnehmer wurden zu einem Ergebnis befragt.",
+      "Die Teilnehmer wurden zum Schreiben gezwungen."
+    ],
+    "answer": "Die Teilnehmer mussten einen zusammenfassenden Bericht der Studienergebnisse schreiben."
+  },
+  {
+    "id": 11010,
+    "level": "B2",
+    "skill": "grammar",
+    "question": "Bis Ende des Jahres wird das Unternehmen die neue Abteilung eröffnet ___ haben.",
+    "options": ["worden", "gehabt", "sein", "haben"],
+    "answer": "haben"
+  }
+]
+

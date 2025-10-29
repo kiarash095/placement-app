@@ -1,0 +1,43 @@
+[
+  {
+    "id": 12001,
+    "level": "B2",
+    "skill": "vocabulary",
+    "question": "Die Regierung plant, neue Maßnahmen zur Reduzierung der Emissionen ___.",
+    "options": ["einzuführen", "aufzunehmen", "auszuziehen", "einzupacken"],
+    "answer": "einzuführen"
+  },
+  {
+    "id": 12002,
+    "level": "B2",
+    "skill": "vocabulary",
+    "question": "Er konnte seine Behauptung mit Zahlen und Fakten ___.",
+    "options": ["belegen", "vermeiden", "ausschließen", "vergleichen"],
+    "answer": "belegen"
+  },
+  {
+    "id": 12003,
+    "level": "B2",
+    "skill": "vocabulary",
+    "question": "Viele Jugendliche fühlen sich unter großem ____, wenn sie Prüfungen schreiben müssen.",
+    "options": ["Druck", "Zwang", "Kampf", "Lärm"],
+    "answer": "Druck"
+  },
+  {
+    "id": 12004,
+    "level": "B2",
+    "skill": "vocabulary",
+    "question": "Die neue Software hat sich als sehr ____ für den Arbeitsalltag erwiesen.",
+    "options": ["nützlich", "süß", "klar", "billig"],
+    "answer": "nützlich"
+  },
+  {
+    "id": 12005,
+    "level": "B2",
+    "skill": "vocabulary",
+    "question": "Sie ist nicht bereit, auf ihren Urlaub zu ___.",
+    "options": ["verzichten", "verschieben", "erwarten", "erhöhen"],
+    "answer": "verzichten"
+  }
+
+]

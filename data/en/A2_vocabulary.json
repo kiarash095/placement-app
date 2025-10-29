@@ -1,0 +1,92 @@
+ [
+    {
+      "id": 1,
+       "level": "A2",
+        "skill": "vocabulary",
+
+      "question": "He was very tired, so he went to ___ early.",
+      "options": ["bed", "home", "rest", "sleep"],
+      "answer": "bed"
+    },
+    {
+      "id": 2,
+        "level": "A2",
+        "skill": "vocabulary",
+
+      "question": "They always ___ the bus to school.",
+      "options": ["take", "ride", "drive", "walk"],
+      "answer": "take"
+    },
+    {
+      "id": 3,
+        "level": "A2",
+        "skill": "vocabulary",
+
+      "question": "I need to ___ for my keys. I can’t find them.",
+      "options": ["look", "search", "look for", "find"],
+      "answer": "look for"
+    },
+    {
+      "id": 4,
+        "level": "A2",
+        "skill": "vocabulary",
+
+      "question": "My brother is very ___ — he tells great jokes!",
+      "options": ["funny", "fun", "happy", "friendly"],
+      "answer": "funny"
+    },
+    {
+      "id": 5,
+        "level": "A2",
+        "skill": "vocabulary",
+
+      "question": "We usually have lunch in the school ___.",
+      "options": ["canteen", "kitchen", "room", "hall"],
+      "answer": "canteen"
+    },
+    {
+      "id": 6,
+        "level": "A2",
+        "skill": "vocabulary",
+
+      "question": "The opposite of 'cheap' is ___.",
+      "options": ["expensive", "rich", "nice", "bad"],
+      "answer": "expensive"
+    },
+    {
+      "id": 7,
+        "level": "A2",
+        "skill": "vocabulary",
+
+      "question": "She is afraid of ___.",
+      "options": ["heights", "high", "top", "mountain"],
+      "answer": "heights"
+    },
+    {
+      "id": 8,
+        "level": "A2",
+        "skill": "vocabulary",
+
+      "question": "We ___ up at 7 a.m. every day.",
+      "options": ["get", "wake", "stand", "get up"],
+      "answer": "get up"
+    },
+    {
+      "id": 9,
+        "level": "A2",
+        "skill": "vocabulary",
+
+      "question": "He works in a hospital. He’s a ___.",
+      "options": ["nurse", "scientist", "teacher", "driver"],
+      "answer": "nurse"
+    },
+    {
+      "id": 10,
+        "level": "A2",
+        "skill": "vocabulary",
+
+      "question": "Don’t be ___ — wait for your turn!",
+      "options": ["impatient", "quiet", "kind", "calm"],
+      "answer": "impatient"
+    }
+  ]

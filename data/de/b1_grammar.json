@@ -1,0 +1,132 @@
+[
+    {
+        "id": 8001,
+        "level": "B1",
+        "skill": "grammar",
+        "question": "Wenn ich mehr Geld ___, würde ich eine Weltreise machen.",
+        "options": [
+            "hätte",
+            "hatte",
+            "haben",
+            "würde haben"
+        ],
+        "answer": "hätte"
+    },
+    {
+        "id": 8002,
+        "level": "B1",
+        "skill": "grammar",
+        "question": "Das ist der Mann, ___ mir gestern im Supermarkt geholfen hat.",
+        "options": [
+            "der",
+            "den",
+            "dem",
+            "dessen"
+        ],
+        "answer": "der"
+    },
+    {
+        "id": 8003,
+        "level": "B1",
+        "skill": "grammar",
+        "question": "Der Brief ___ gestern von der Sekretärin geschrieben.",
+        "options": [
+            "wurde",
+            "war",
+            "hat",
+            "ist"
+        ],
+        "answer": "wurde"
+    },
+    {
+        "id": 8004,
+        "level": "B1",
+        "skill": "grammar",
+        "question": "Sie hat gesagt, dass sie gestern nicht ___ kommen können.",
+        "options": [
+            "hat",
+            "hätte",
+            "hatte",
+            "kommen"
+        ],
+        "answer": "hätte"
+    },
+    {
+        "id": 8005,
+        "level": "B1",
+        "skill": "grammar",
+        "question": "Ich habe vergessen, den Fernseher ___.",
+        "options": [
+            "auszuschalten",
+            "ausschalten",
+            "schaltet aus",
+            "ausgeschaltet"
+        ],
+        "answer": "auszuschalten"
+    },
+    {
+        "id": 8006,
+        "level": "B1",
+        "skill": "grammar",
+        "question": "Das Paket ___ gestern nicht geliefert, weil niemand zu Hause war.",
+        "options": [
+            "wurde",
+            "war",
+            "ist",
+            "hat"
+        ],
+        "answer": "wurde"
+    },
+    {
+        "id": 8007,
+        "level": "B1",
+        "skill": "grammar",
+        "question": "Das ist die Frau, ___ ich letzte Woche im Museum getroffen habe.",
+        "options": [
+            "die",
+            "der",
+            "den",
+            "deren"
+        ],
+        "answer": "die"
+    },
+    {
+        "id": 8008,
+        "level": "B1",
+        "skill": "grammar",
+        "question": "Wenn er früher gelernt hätte, ___ er die Prüfung bestanden.",
+        "options": [
+            "hätte",
+            "würde",
+            "hätte er",
+            "würde er"
+        ],
+        "answer": "hätte"
+    },
+    {
+        "id": 8009,
+        "level": "B1",
+        "skill": "grammar",
+        "question": "Ich denke, dass sie morgen nicht ___ kommen dürfen.",
+        "options": [
+            "wird",
+            "kann",
+            "dürfen",
+            "wird"
+        ],
+        "answer": "dürfen"
+    },
+    {
+        "id": 8010,
+        "level": "B1",
+        "skill": "grammar",
+        "question": "Bevor ich nach Hause ging, ___ ich noch im Büro einige E-Mails.",
+        "options": [
+            "schrieb",
+            "habe geschrieben",
+            "schreiben",
+            "schreibt"
+        ],
+        "answer": "schrieb"
+    }
+]

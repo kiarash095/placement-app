@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "level": "A1",
+    "skill": "listening",
+    "question": "Was kostet der Pullover?",
+    "options": [
+      "Dreißig Euro.",
+      "Fünfundneunzig Euro.",
+      "Neunzehn Euro fünfundneunzig Cent."
+    ],
+    "answer": "Dreißig Euro.",
+    "audio": "/audio/german/a1-hoerverstehen.mp3"
+  },
+  {
+    "id": "2",
+    "level": "A1",
+    "skill": "listening",
+    "question": "Wie spät ist es?",
+    "options": [
+      "15 Uhr.",
+      "Gleich 5 Uhr.",
+      "Halb 5 Uhr."
+    ],
+    "answer": "15 Uhr.",
+    "audio": "/audio/german/a1-hoerverstehen.mp3"
+  },
+  {
+    "id": "3",
+    "level": "A1",
+    "skill": "listening",
+    "question": "Was isst die Frau im Restaurant?",
+    "options": [
+      "Pommes.",
+      "Fisch.",
+      "Wurst."
+    ],
+    "answer": "Pommes.",
+    "audio": "/audio/german/a1-hoerverstehen.mp3"
+  },
+  {
+    "id": "4",
+    "level": "A1",
+    "skill": "listening",
+    "question": "In welche Klasse geht Frau Hegers Sohn?",
+    "options": [
+      "In die neunte Klasse.",
+      "In die dritte Klasse.",
+      "In die vierte Klasse."
+    ],
+    "answer": "In die neunte Klasse.",
+    "audio": "/audio/german/a1-hoerverstehen.mp3"
+  },
+  {
+    "id": "5",
+    "level": "A1",
+    "skill": "listening",
+    "question": "Wie kommt die Frau in den 2. Stock?",
+    "options": [
+      "Mit dem Aufzug.",
+      "Auf der Treppe um die Ecke.",
+      "Mit der Rolltreppe."
+    ],
+    "answer": "Mit dem Aufzug.",
+    "audio": "/audio/german/a1-hoerverstehen.mp3"
+  },
+  {
+    "id": "6",
+    "level": "A1",
+    "skill": "listening",
+    "question": "Wohin fährt Herr Albers?",
+    "options": [
+      "In Urlaub ans Meer.",
+      "Zur Arbeit.",
+      "Zur Familie."
+    ],
+    "answer": "In Urlaub ans Meer.",
+    "audio": "/audio/german/a1-hoerverstehen.mp3"
+  }
+]

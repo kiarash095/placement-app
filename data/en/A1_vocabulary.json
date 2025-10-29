@@ -1,0 +1,93 @@
+ [
+    {
+      "id": 1,
+         "level": "A1",
+        "skill": "vocabulary",
+
+      "question": "What do you drink in the morning?",
+      "options": ["tea", "book", "pen", "shoes"],
+      "answer": "tea"
+    },
+    {
+      "id": 2,
+        "level": "A1",
+        "skill": "vocabulary",
+
+      "question": "A doctor works in a ___.",
+      "options": ["hospital", "school", "kitchen", "bank"],
+      "answer": "hospital"
+    },
+    {
+      "id": 3,
+        "level": "A1",
+        "skill": "vocabulary",
+
+      "question": "Opposite of 'hot' is ___.",
+      "options": ["cold", "fast", "slow", "dry"],
+      "answer": "cold"
+    },
+    {
+      "id": 4,
+        "level": "A1",
+        "skill": "vocabulary",
+
+      "question": "We use a ___ to call people.",
+      "options": ["phone", "door", "table", "shoe"],
+      "answer": "phone"
+    },
+    {
+      "id": 5,
+        "level": "A1",
+        "skill": "vocabulary",
+
+      "question": "Which one is a fruit?",
+      "options": ["banana", "car", "plate", "shirt"],
+      "answer": "banana"
+    },
+    {
+      "id": 6,
+        "level": "A1",
+        "skill": "vocabulary",
+
+      "question": "My mother’s father is my ___.",
+      "options": ["grandfather", "uncle", "brother", "cousin"],
+      "answer": "grandfather"
+    },
+    {
+      "id": 7,
+        "level": "A1",
+        "skill": "vocabulary",
+
+      "question": "You wear ___ on your feet.",
+      "options": ["shoes", "hats", "glasses", "shirts"],
+      "answer": "shoes"
+    },
+    {
+      "id": 8,
+        "level": "A1",
+        "skill": "vocabulary",
+
+      "question": "I ___ to school by bus.",
+      "options": ["go", "eat", "sleep", "cook"],
+      "answer": "go"
+    },
+    {
+      "id": 9,
+        "level": "A1",
+        "skill": "vocabulary",
+
+      "question": "Which is a day of the week?",
+      "options": ["Monday", "January", "Spring", "Morning"],
+      "answer": "Monday"
+    },
+    {
+      "id": 10,
+        "level": "A1",
+        "skill": "vocabulary",
+
+      "question": "You open the door with a ___.",
+      "options": ["key", "spoon", "pencil", "clock"],
+      "answer": "key"
+    }
+  ]
+

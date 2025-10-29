@@ -1,0 +1,92 @@
+ [
+    {
+      "id": 1,
+       "level": "B1",
+  "skill": "vocabulary",
+      "question": "He finally ___ smoking after 10 years.",
+      "options": ["gave up", "gave out", "gave off", "gave in"],
+      "answer": "gave up"
+    },
+    {
+      "id": 2,
+       "level": "B1",
+  "skill": "vocabulary",
+
+      "question": "I’m really ___ with my noisy neighbors.",
+      "options": ["fed up", "taken up", "put out", "broken down"],
+      "answer": "fed up"
+    },
+    {
+      "id": 3,
+       "level": "B1",
+  "skill": "vocabulary",
+
+      "question": "The meeting was ___ because the manager was sick.",
+      "options": ["called off", "put up", "taken away", "carried on"],
+      "answer": "called off"
+    },
+    {
+      "id": 4,
+       "level": "B1",
+  "skill": "vocabulary",
+
+      "question": "He takes ___ his grandfather. They both love gardening.",
+      "options": ["after", "over", "off", "up"],
+      "answer": "after"
+    },
+    {
+      "id": 5,
+       "level": "B1",
+  "skill": "vocabulary",
+
+      "question": "She’s very ___ — she never gives up easily.",
+      "options": ["determined", "polite", "lazy", "shy"],
+      "answer": "determined"
+    },
+    {
+      "id": 6,
+       "level": "B1",
+  "skill": "vocabulary",
+
+      "question": "Which word means 'not allowed by law'?",
+      "options": ["illegal", "impossible", "impolite", "immoral"],
+      "answer": "illegal"
+    },
+    {
+      "id": 7,
+       "level": "B1",
+  "skill": "vocabulary",
+
+      "question": "The opposite of 'increase' is ___.",
+      "options": ["decrease", "expand", "improve", "develop"],
+      "answer": "decrease"
+    },
+    {
+      "id": 8,
+       "level": "B1",
+  "skill": "vocabulary",
+
+      "question": "If you want to ___ weight, you should eat less sugar.",
+      "options": ["lose", "miss", "drop", "fall"],
+      "answer": "lose"
+    },
+    {
+      "id": 9,
+       "level": "B1",
+  "skill": "vocabulary",
+
+      "question": "He made a very ___ impression during the interview.",
+      "options": ["positive", "usual", "noisy", "angry"],
+      "answer": "positive"
+    },
+    {
+      "id": 10,
+       "level": "B1",
+  "skill": "vocabulary",
+
+      "question": "She looked ___ after the baby while her sister was away.",
+      "options": ["after", "for", "up", "out"],
+      "answer": "after"
+    }
+  ]
+

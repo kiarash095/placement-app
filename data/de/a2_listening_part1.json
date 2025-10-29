@@ -1,0 +1,67 @@
+[
+{
+      "id": 21001,
+              "level": "A2",
+        "skill": "listening",
+
+      "question": "Wo kann man noch parken?",
+      "options": [
+        "Am Bahnhof.",
+        "Am Einkaufszentrum.",
+        "Bei der Olympia-Halle."
+      ],
+      "answer": "Am Einkaufszentrum."
+    },
+{
+      "id": 21002,
+              "level": "A2",
+        "skill": "listening",
+
+      "question": "Was soll Sabine nicht vergessen?",
+      "options": [
+        "Das Geschenk.",
+        "Den Anzug.",
+        "Die Blumen."
+      ],
+      "answer": "Den Anzug."
+    },
+{
+      "id": 21003,
+              "level": "A2",
+        "skill": "listening",
+
+      "question": "Wo findet das Treffen statt?",
+      "options": [
+        "Am Bahnhof.",
+        "Im Büro.",
+        "Im Hotel Leopold."
+      ],
+      "answer": "Im Hotel Leopold."
+    },
+{
+      "id": 21004,
+              "level": "A2",
+        "skill": "listening",
+
+      "question": "Wie wird das Wetter am Sonntag?",
+      "options": [
+        "Im Norden trocken.",
+        "Im Norden und Süden nass.",
+        "Im Süden trocken."
+      ],
+      "answer": "Im Norden und Süden nass."
+    },
+{
+      "id": 21005,
+              "level": "A2",
+        "skill": "listening",
+
+      "question": "Was sollen die Hörerinnen und Hörer tun?",
+      "options": [
+        "Den Namen des Sängers sagen.",
+        "Eine Konzertkarte kaufen.",
+        "Ein neues Lied singen."
+      ],
+      "answer": "Den Namen des Sängers sagen."
+    }
+    ]

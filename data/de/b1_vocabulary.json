@@ -1,0 +1,132 @@
+[
+    {
+        "id": 9001,
+        "level": "B1",
+        "skill": "vocabulary",
+        "question": "Er konnte den Vertrag nicht ____, weil ihm wichtige Informationen fehlten.",
+        "options": [
+            "unterschreiben",
+            "aufschreiben",
+            "abschreiben",
+            "beschreiben"
+        ],
+        "answer": "unterschreiben"
+    },
+    {
+        "id": 9002,
+        "level": "B1",
+        "skill": "vocabulary",
+        "question": "Die neue Regelung tritt ab nächstem Monat in ___.",
+        "options": [
+            "Kraft",
+            "Arbeit",
+            "Ordnung",
+            "Frage"
+        ],
+        "answer": "Kraft"
+    },
+    {
+        "id": 9003,
+        "level": "B1",
+        "skill": "vocabulary",
+        "question": "Seine Bewerbung war sehr überzeugend, also wurde er zum Gespräch ___.",
+        "options": [
+            "eingeladen",
+            "informiert",
+            "verglichen",
+            "entlassen"
+        ],
+        "answer": "eingeladen"
+    },
+    {
+        "id": 9004,
+        "level": "B1",
+        "skill": "vocabulary",
+        "question": "Die Firma hat im letzten Jahr hohe ___ gemacht.",
+        "options": [
+            "Umsätze",
+            "Ansichten",
+            "Vorschläge",
+            "Bestellungen"
+        ],
+        "answer": "Umsätze"
+    },
+    {
+        "id": 9005,
+        "level": "B1",
+        "skill": "vocabulary",
+        "question": "Ich bin mit dem Ergebnis nicht ganz ___. Wir müssen es noch verbessern.",
+        "options": [
+            "zufrieden",
+            "bereit",
+            "sicher",
+            "ruhig"
+        ],
+        "answer": "zufrieden"
+    },
+    {
+        "id": 9006,
+        "level": "B1",
+        "skill": "vocabulary",
+        "question": "Sie konnte wegen des starken Verkehrs nicht ___ ankommen.",
+        "options": [
+            "pünktlich",
+            "ruhig",
+            "freundlich",
+            "häufig"
+        ],
+        "answer": "pünktlich"
+    },
+    {
+        "id": 9007,
+        "level": "B1",
+        "skill": "vocabulary",
+        "question": "Nach dem Gespräch war sie sehr ___. Sie hatte ein gutes Gefühl.",
+        "options": [
+            "erleichtert",
+            "begeistert",
+            "genervt",
+            "aufgeregt"
+        ],
+        "answer": "erleichtert"
+    },
+    {
+        "id": 9008,
+        "level": "B1",
+        "skill": "vocabulary",
+        "question": "In seinem neuen Job hat er viel mehr ___ als vorher.",
+        "options": [
+            "Verantwortung",
+            "Ausbildung",
+            "Licht",
+            "Zeitung"
+        ],
+        "answer": "Verantwortung"
+    },
+    {
+        "id": 9009,
+        "level": "B1",
+        "skill": "vocabulary",
+        "question": "Sie hat sich für ein Studium der Psychologie ___.",
+        "options": [
+            "entschieden",
+            "verbessert",
+            "beeilt",
+            "beschwert"
+        ],
+        "answer": "entschieden"
+    },
+    {
+        "id": 9010,
+        "level": "B1",
+        "skill": "vocabulary",
+        "question": "Bitte schicken Sie uns Ihre vollständigen ___.",
+        "options": [
+            "Unterlagen",
+            "Getränke",
+            "Nachrichten",
+            "Zeitschriften"
+        ],
+        "answer": "Unterlagen"
+    }
+]

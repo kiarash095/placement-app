@@ -1,0 +1,285 @@
+[
+  {
+    "id": "b2_lis_1",
+    "level": "B2",
+    "skill": "listening",
+    "type": "matching",
+    "question": "advice",
+    "options": ["a", "b", "c", "d", "e", "f", "g", "h"],
+    "descriptions": {
+      "a": "nervous and worried",
+      "b": "to be strongly attracted to doing something",
+      "c": "a good or full amount",
+      "d": "the act of doing something again",
+      "e": "an opinion or recommendation about what someone should do",
+      "f": "a short walk around your local area",
+      "g": "to put something over something so that you can't see it",
+      "h": "an expression used before the last thing in a list, to say that it is equally as important"
+    },
+    "answer": "e"
+  },
+  {
+    "id": "b2_lis_2",
+    "level": "B2",
+    "skill": "listening",
+    "type": "matching",
+    "question": "last but not least",
+    "options": ["a", "b", "c", "d", "e", "f", "g", "h"],
+    "descriptions": {
+      "a": "nervous and worried",
+      "b": "to be strongly attracted to doing something",
+      "c": "a good or full amount",
+      "d": "the act of doing something again",
+      "e": "an opinion or recommendation about what someone should do",
+      "f": "a short walk around your local area",
+      "g": "to put something over something so that you can't see it",
+      "h": "an expression used before the last thing in a list, to say that it is equally as important"
+    },
+    "answer": "h"
+  },
+  {
+    "id": "b2_lis_3",
+    "level": "B2",
+    "skill": "listening",
+    "type": "matching",
+    "question": "to be tempted",
+    "options": ["a", "b", "c", "d", "e", "f", "g", "h"],
+    "descriptions": {
+      "a": "nervous and worried",
+      "b": "to be strongly attracted to doing something",
+      "c": "a good or full amount",
+      "d": "the act of doing something again",
+      "e": "an opinion or recommendation about what someone should do",
+      "f": "a short walk around your local area",
+      "g": "to put something over something so that you can't see it",
+      "h": "an expression used before the last thing in a list, to say that it is equally as important"
+    },
+    "answer": "b"
+  },
+  {
+    "id": "b2_lis_4",
+    "level": "B2",
+    "skill": "listening",
+    "type": "matching",
+    "question": "anxious",
+    "options": ["a", "b", "c", "d", "e", "f", "g", "h"],
+    "descriptions": {
+      "a": "nervous and worried",
+      "b": "to be strongly attracted to doing something",
+      "c": "a good or full amount",
+      "d": "the act of doing something again",
+      "e": "an opinion or recommendation about what someone should do",
+      "f": "a short walk around your local area",
+      "g": "to put something over something so that you can't see it",
+      "h": "an expression used before the last thing in a list, to say that it is equally as important"
+    },
+    "answer": "a"
+  },
+  {
+    "id": "b2_lis_5",
+    "level": "B2",
+    "skill": "listening",
+    "type": "matching",
+    "question": "plenty",
+    "options": ["a", "b", "c", "d", "e", "f", "g", "h"],
+    "descriptions": {
+      "a": "nervous and worried",
+      "b": "to be strongly attracted to doing something",
+      "c": "a good or full amount",
+      "d": "the act of doing something again",
+      "e": "an opinion or recommendation about what someone should do",
+      "f": "a short walk around your local area",
+      "g": "to put something over something so that you can't see it",
+      "h": "an expression used before the last thing in a list, to say that it is equally as important"
+    },
+    "answer": "c"
+  },
+  {
+    "id": "b2_lis_6",
+    "level": "B2",
+    "skill": "listening",
+    "type": "matching",
+    "question": "repetition",
+    "options": ["a", "b", "c", "d", "e", "f", "g", "h"],
+    "descriptions": {
+      "a": "nervous and worried",
+      "b": "to be strongly attracted to doing something",
+      "c": "a good or full amount",
+      "d": "the act of doing something again",
+      "e": "an opinion or recommendation about what someone should do",
+      "f": "a short walk around your local area",
+      "g": "to put something over something so that you can't see it",
+      "h": "an expression used before the last thing in a list, to say that it is equally as important"
+    },
+    "answer": "d"
+  },
+  {
+    "id": "b2_lis_7",
+    "level": "B2",
+    "skill": "listening",
+    "type": "matching",
+    "question": "a stroll around the block",
+    "options": ["a", "b", "c", "d", "e", "f", "g", "h"],
+    "descriptions": {
+      "a": "nervous and worried",
+      "b": "to be strongly attracted to doing something",
+      "c": "a good or full amount",
+      "d": "the act of doing something again",
+      "e": "an opinion or recommendation about what someone should do",
+      "f": "a short walk around your local area",
+      "g": "to put something over something so that you can't see it",
+      "h": "an expression used before the last thing in a list, to say that it is equally as important"
+    },
+    "answer": "f"
+  },
+  {
+    "id": "b2_lis_8",
+    "level": "B2",
+    "skill": "listening",
+    "type": "matching",
+    "question": "to cover something up",
+    "options": ["a", "b", "c", "d", "e", "f", "g", "h"],
+    "descriptions": {
+      "a": "nervous and worried",
+      "b": "to be strongly attracted to doing something",
+      "c": "a good or full amount",
+      "d": "the act of doing something again",
+      "e": "an opinion or recommendation about what someone should do",
+      "f": "a short walk around your local area",
+      "g": "to put something over something so that you can't see it",
+      "h": "an expression used before the last thing in a list, to say that it is equally as important"
+    },
+    "answer": "g"
+  },
+
+  {
+    "id": "b2_lis_9",
+    "level": "B2",
+    "skill": "listening",
+    "type": "multiple_choice",
+    "question": "The teacher wants the students to …",
+    "options": [
+      "a. take notes after she has finished speaking.",
+      "b. take notes while she is speaking.",
+      "c. forget about taking notes."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "b2_lis_10",
+    "level": "B2",
+    "skill": "listening",
+    "type": "multiple_choice",
+    "question": "The teacher suggests eating …",
+    "options": [
+      "a. sugary snacks.",
+      "b. only apples.",
+      "c. fruit and cereals."
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "b2_lis_11",
+    "level": "B2",
+    "skill": "listening",
+    "type": "multiple_choice",
+    "question": "The teacher suggests finding a study place with a lot of …",
+    "options": [
+      "a. light.",
+      "b. space.",
+      "c. books."
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "b2_lis_12",
+    "level": "B2",
+    "skill": "listening",
+    "type": "multiple_choice",
+    "question": "If students feel stressed they should …",
+    "options": [
+      "a. go to bed.",
+      "b. go out for a walk.",
+      "c. drink some water."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "b2_lis_13",
+    "level": "B2",
+    "skill": "listening",
+    "type": "multiple_choice",
+    "question": "Students are advised to …",
+    "options": [
+      "a. select the important things to learn.",
+      "b. read through everything once.",
+      "c. make notes about every topic."
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "b2_lis_14",
+    "level": "B2",
+    "skill": "listening",
+    "type": "multiple_choice",
+    "question": "The teacher understands that repeating things can be …",
+    "options": [
+      "a. difficult.",
+      "b. uninteresting.",
+      "c. tiring."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "b2_lis_15",
+    "level": "B2",
+    "skill": "listening",
+    "type": "multiple_choice",
+    "question": "Students can do past exam papers …",
+    "options": [
+      "a. in the library only.",
+      "b. at home if they take photocopies.",
+      "c. in the after-school study group."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "b2_lis_16",
+    "level": "B2",
+    "skill": "listening",
+    "type": "multiple_choice",
+    "question": "The teacher recommends a break of five minutes every …",
+    "options": [
+      "a. hour.",
+      "b. two hours.",
+      "c. thirty minutes."
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "b2_lis_17",
+    "level": "B2",
+    "skill": "listening",
+    "type": "multiple_choice",
+    "question": "It's important to …",
+    "options": [
+      "a. eat regularly.",
+      "b. sleep when you feel tired.",
+      "c. keep hydrated."
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "b2_lis_18",
+    "level": "B2",
+    "skill": "listening",
+    "type": "multiple_choice",
+    "question": "The teacher is sure that the students will …",
+    "options": [
+      "a. pass their exams.",
+      "b. fail their exams.",
+      "c. do their best."
+    ],
+    "answer": "c"
+  }
+]

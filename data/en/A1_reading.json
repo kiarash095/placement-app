@@ -1,0 +1,42 @@
+[
+  {
+    "id": "a1_read_1",
+    "level": "A1",
+    "skill": "reading",
+    "type": "multiple-choice",
+    "passage": "Tom is a bus driver in a small town. Every weekday, he wakes up at 5:00 in the morning. He takes a quick shower, eats breakfast, and leaves his house at 5:30. At 6:00, he starts his shift at the bus station.\n\nTom drives the same route every day. He picks up people from different stops around town. Many of his passengers are students going to school or workers heading to their jobs. Tom enjoys seeing familiar faces and often says hello to the people who get on his bus.\n\nHe takes a short break at 10:00, drinks a coffee, and then continues driving. His shift ends at 2:00 in the afternoon. After work, he goes home, eats lunch with his wife, and sometimes takes a nap.\n\nIn the evenings, Tom enjoys gardening or watching football on TV. He also likes reading books about travel, even though he hasn’t traveled much himself.\n\nDriving a bus can be stressful, especially in bad weather or traffic, but Tom says it’s a good job. He likes helping people get to where they need to go. “Every day is different,” he says, “and I like that.”\n\nOn weekends, Tom doesn’t work. He spends time with his family or goes for a walk in the park. He says weekends help him relax and prepare for the new week ahead.",
+    "question": "What time does Tom start work?",
+    "options": ["5:00", "5:30", "6:00", "10:00"],
+    "answer": "6:00"
+  },
+  {
+    "id": "a1_read_2",
+    "level": "A1",
+    "skill": "reading",
+    "type": "multiple-choice",
+    "passage": "Tom is a bus driver in a small town. Every weekday, he wakes up at 5:00 in the morning. He takes a quick shower, eats breakfast, and leaves his house at 5:30. At 6:00, he starts his shift at the bus station.\n\nTom drives the same route every day. He picks up people from different stops around town. Many of his passengers are students going to school or workers heading to their jobs. Tom enjoys seeing familiar faces and often says hello to the people who get on his bus.\n\nHe takes a short break at 10:00, drinks a coffee, and then continues driving. His shift ends at 2:00 in the afternoon. After work, he goes home, eats lunch with his wife, and sometimes takes a nap.\n\nIn the evenings, Tom enjoys gardening or watching football on TV. He also likes reading books about travel, even though he hasn’t traveled much himself.\n\nDriving a bus can be stressful, especially in bad weather or traffic, but Tom says it’s a good job. He likes helping people get to where they need to go. “Every day is different,” he says, “and I like that.”\n\nOn weekends, Tom doesn’t work. He spends time with his family or goes for a walk in the park. He says weekends help him relax and prepare for the new week ahead.",
+    "question": "What does Tom enjoy doing in the evening?",
+    "options": [
+      "Traveling",
+      "Watching football and gardening",
+      "Working more",
+      "Driving his bus"
+    ],
+    "answer": "Watching football and gardening"
+  },
+  {
+    "id": "a1_read_3",
+    "level": "A1",
+    "skill": "reading",
+    "type": "multiple-choice",
+    "passage": "Tom is a bus driver in a small town. Every weekday, he wakes up at 5:00 in the morning. He takes a quick shower, eats breakfast, and leaves his house at 5:30. At 6:00, he starts his shift at the bus station.\n\nTom drives the same route every day. He picks up people from different stops around town. Many of his passengers are students going to school or workers heading to their jobs. Tom enjoys seeing familiar faces and often says hello to the people who get on his bus.\n\nHe takes a short break at 10:00, drinks a coffee, and then continues driving. His shift ends at 2:00 in the afternoon. After work, he goes home, eats lunch with his wife, and sometimes takes a nap.\n\nIn the evenings, Tom enjoys gardening or watching football on TV. He also likes reading books about travel, even though he hasn’t traveled much himself.\n\nDriving a bus can be stressful, especially in bad weather or traffic, but Tom says it’s a good job. He likes helping people get to where they need to go. “Every day is different,” he says, “and I like that.”\n\nOn weekends, Tom doesn’t work. He spends time with his family or goes for a walk in the park. He says weekends help him relax and prepare for the new week ahead.",
+    "question": "Why does Tom like his job?",
+    "options": [
+      "He earns a lot of money",
+      "He likes helping people",
+      "He drives to new cities",
+      "He only works on weekends"
+    ],
+    "answer": "He likes helping people"
+  }
+]

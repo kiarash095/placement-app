@@ -1,0 +1,137 @@
+ [
+    {
+      "id": 1,
+        "level": "A2",
+        "skill": "grammar",
+
+      "question": "I ___ to the beach last summer.",
+      "options": ["went", "go", "goes", "going"],
+      "answer": "went"
+    },
+    {
+      "id": 2,
+          "level": "A2",
+        "skill": "grammar",
+
+      "question": "She ___ cook very well.",
+      "options": ["can", "have to", "has", "is"],
+      "answer": "can"
+    },
+    {
+      "id": 3,
+          "level": "A2",
+        "skill": "grammar",
+
+      "question": "You ___ wear a uniform at school.",
+      "options": ["have to", "has to", "can", "don’t have to"],
+      "answer": "have to"
+    },
+    {
+      "id": 4,
+          "level": "A2",
+        "skill": "grammar",
+
+      "question": "___ did you do yesterday?",
+      "options": ["What", "Who", "Where", "Why"],
+      "answer": "What"
+    },
+    {
+      "id": 5,
+          "level": "A2",
+        "skill": "grammar",
+
+      "question": "My car is ___ than yours.",
+      "options": ["faster", "more fast", "fastest", "fast"],
+      "answer": "faster"
+    },
+    {
+      "id": 6,
+          "level": "A2",
+        "skill": "grammar",
+
+      "question": "There ___ some milk in the fridge.",
+      "options": ["is", "are", "be", "has"],
+      "answer": "is"
+    },
+    {
+      "id": 7,
+          "level": "A2",
+        "skill": "grammar",
+
+      "question": "Do you have ___ apples?",
+      "options": ["any", "some", "much", "many"],
+      "answer": "any"
+    },
+    {
+      "id": 8,
+          "level": "A2",
+        "skill": "grammar",
+
+      "question": "We visited London ___ June.",
+      "options": ["in", "on", "at", "to"],
+      "answer": "in"
+    },
+    {
+      "id": 9,
+          "level": "A2",
+        "skill": "grammar",
+
+      "question": "They ___ a lot of homework last night.",
+      "options": ["did", "do", "does", "doing"],
+      "answer": "did"
+    },
+    {
+      "id": 10,
+          "level": "A2",
+        "skill": "grammar",
+
+      "question": "This is the ___ movie I’ve ever seen!",
+      "options": ["best", "better", "good", "more good"],
+      "answer": "best"
+    },
+    {
+      "id": 11,
+          "level": "A2",
+        "skill": "grammar",
+
+      "question": "While I ___ dinner, the phone rang.",
+      "options": ["was cooking", "cooked", "am cooking", "have cooked"],
+      "answer": "was cooking"
+    },
+    {
+      "id": 12,
+          "level": "A2",
+        "skill": "grammar",
+
+      "question": "You ___ smoke here. It’s not allowed.",
+      "options": ["mustn’t", "don’t have to", "can", "should"],
+      "answer": "mustn’t"
+    },
+    {
+      "id": 13,
+          "level": "A2",
+        "skill": "grammar",
+
+      "question": "I’ve ___ finished my homework.",
+      "options": ["already", "yet", "still", "ever"],
+      "answer": "already"
+    },
+    {
+      "id": 14,
+          "level": "A2",
+        "skill": "grammar",
+
+      "question": "This bag isn’t big ___ to carry all my books.",
+      "options": ["enough", "too", "so", "much"],
+      "answer": "enough"
+    },
+    {
+      "id": 15,
+          "level": "A2",
+        "skill": "grammar",
+
+      "question": "If it rains tomorrow, we ___ stay at home.",
+      "options": ["will", "would", "can", "are"],
+      "answer": "will"
+    }
+  ]

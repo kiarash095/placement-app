@@ -1,0 +1,132 @@
+[
+    {
+        "id": 6001,
+        "level": "A2",
+        "skill": "vocabulary",
+        "question": "Wenn man krank ist, sollte man sich gut ___ und viel trinken.",
+        "options": [
+            "ausruhen",
+            "ausschlafen",
+            "ausgehen",
+            "ausziehen"
+        ],
+        "answer": "ausruhen"
+    },
+    {
+        "id": 6002,
+        "level": "A2",
+        "skill": "vocabulary",
+        "question": "Für die Prüfung muss ich noch viele neue Wörter ___.",
+        "options": [
+            "lernen",
+            "lesen",
+            "schreiben",
+            "hören"
+        ],
+        "answer": "lernen"
+    },
+    {
+        "id": 6003,
+        "level": "A2",
+        "skill": "vocabulary",
+        "question": "Ich habe den Bus verpasst und komme jetzt leider ___.",
+        "options": [
+            "spät",
+            "früh",
+            "schnell",
+            "pünktlich"
+        ],
+        "answer": "spät"
+    },
+    {
+        "id": 6004,
+        "level": "A2",
+        "skill": "vocabulary",
+        "question": "Morgen machen wir einen ___ ins Grüne mit der ganzen Familie.",
+        "options": [
+            "Ausflug",
+            "Unfall",
+            "Einkauf",
+            "Besuch"
+        ],
+        "answer": "Ausflug"
+    },
+    {
+        "id": 6005,
+        "level": "A2",
+        "skill": "vocabulary",
+        "question": "Wenn du eine Wohnung suchst, musst du auf die ___ achten.",
+        "options": [
+            "Miete",
+            "Mütze",
+            "Mitte",
+            "Matratze"
+        ],
+        "answer": "Miete"
+    },
+    {
+        "id": 6006,
+        "level": "A2",
+        "skill": "vocabulary",
+        "question": "Mein Handy ist kaputt. Ich muss es ___ lassen.",
+        "options": [
+            "reparieren",
+            "vergessen",
+            "verlieren",
+            "erklären"
+        ],
+        "answer": "reparieren"
+    },
+    {
+        "id": 6007,
+        "level": "A2",
+        "skill": "vocabulary",
+        "question": "Nach dem Unfall musste der Mann ins ___.",
+        "options": [
+            "Krankenhaus",
+            "Wohnzimmer",
+            "Kaufhaus",
+            "Hotel"
+        ],
+        "answer": "Krankenhaus"
+    },
+    {
+        "id": 6008,
+        "level": "A2",
+        "skill": "vocabulary",
+        "question": "Im Sommer fahren viele Familien gern ans ___.",
+        "options": [
+            "Meer",
+            "Theater",
+            "Kino",
+            "Büro"
+        ],
+        "answer": "Meer"
+    },
+    {
+        "id": 6009,
+        "level": "A2",
+        "skill": "vocabulary",
+        "question": "Ich habe gestern einen interessanten ___ über Gesundheit gelesen.",
+        "options": [
+            "Artikel",
+            "Plan",
+            "Teller",
+            "Anruf"
+        ],
+        "answer": "Artikel"
+    },
+    {
+        "id": 6010,
+        "level": "A2",
+        "skill": "vocabulary",
+        "question": "Wenn man im Supermarkt bezahlt, bekommt man einen ___.",
+        "options": [
+            "Kassenzettel",
+            "Führerschein",
+            "Ausweis",
+            "Löffel"
+        ],
+        "answer": "Kassenzettel"
+    }
+]

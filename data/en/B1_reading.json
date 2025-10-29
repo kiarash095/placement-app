@@ -1,0 +1,113 @@
+ [
+    {
+      "id": 1,
+        "level": "B1",
+  "skill": "reading",
+  "passage": "Last year, Emma decided to move to Canada to start a new life. She had been working as a teacher in England for ten years, but she felt it was time for a change. She applied for a teaching job in Toronto, got accepted, and began preparing for the big move. \n\nAt first, everything was exciting — the idea of living in a new country, meeting new people, and learning about a different culture. But once she arrived, things were more difficult than she expected. She didn’t know anyone, the weather was colder than she was used to, and she missed her family. \n\nEmma started to feel homesick, and there were moments when she wondered if she had made a mistake. However, she reminded herself why she came — to challenge herself, grow, and experience life in a new way. \n\nGradually, things got better. She made friends at work, joined a local hiking group, and even started taking French classes. One year later, Emma says moving to Canada was one of the hardest — but also the best — decisions she has ever made.",
+  
+
+      "question": "Where did Emma move to?",
+      "options": ["Canada", "France", "Australia", "Germany"],
+      "answer": "Canada"
+    },
+    {
+      "id": 2,
+        "level": "B1",
+  "skill": "reading",
+  "passage": "Last year, Emma decided to move to Canada to start a new life. She had been working as a teacher in England for ten years, but she felt it was time for a change. She applied for a teaching job in Toronto, got accepted, and began preparing for the big move. \n\nAt first, everything was exciting — the idea of living in a new country, meeting new people, and learning about a different culture. But once she arrived, things were more difficult than she expected. She didn’t know anyone, the weather was colder than she was used to, and she missed her family. \n\nEmma started to feel homesick, and there were moments when she wondered if she had made a mistake. However, she reminded herself why she came — to challenge herself, grow, and experience life in a new way. \n\nGradually, things got better. She made friends at work, joined a local hiking group, and even started taking French classes. One year later, Emma says moving to Canada was one of the hardest — but also the best — decisions she has ever made.",
+  
+
+      "question": "Why did she leave her job in England?",
+      "options": ["She lost her job", "She retired", "She wanted a change", "She didn’t like teaching"],
+      "answer": "She wanted a change"
+    },
+    {
+      "id": 3,
+        "level": "B1",
+  "skill": "reading",
+  "passage": "Last year, Emma decided to move to Canada to start a new life. She had been working as a teacher in England for ten years, but she felt it was time for a change. She applied for a teaching job in Toronto, got accepted, and began preparing for the big move. \n\nAt first, everything was exciting — the idea of living in a new country, meeting new people, and learning about a different culture. But once she arrived, things were more difficult than she expected. She didn’t know anyone, the weather was colder than she was used to, and she missed her family. \n\nEmma started to feel homesick, and there were moments when she wondered if she had made a mistake. However, she reminded herself why she came — to challenge herself, grow, and experience life in a new way. \n\nGradually, things got better. She made friends at work, joined a local hiking group, and even started taking French classes. One year later, Emma says moving to Canada was one of the hardest — but also the best — decisions she has ever made.",
+  
+
+      "question": "What was Emma’s profession?",
+      "options": ["Doctor", "Teacher", "Engineer", "Writer"],
+      "answer": "Teacher"
+    },
+    {
+      "id": 4,
+        "level": "B1",
+  "skill": "reading",
+  "passage": "Last year, Emma decided to move to Canada to start a new life. She had been working as a teacher in England for ten years, but she felt it was time for a change. She applied for a teaching job in Toronto, got accepted, and began preparing for the big move. \n\nAt first, everything was exciting — the idea of living in a new country, meeting new people, and learning about a different culture. But once she arrived, things were more difficult than she expected. She didn’t know anyone, the weather was colder than she was used to, and she missed her family. \n\nEmma started to feel homesick, and there were moments when she wondered if she had made a mistake. However, she reminded herself why she came — to challenge herself, grow, and experience life in a new way. \n\nGradually, things got better. She made friends at work, joined a local hiking group, and even started taking French classes. One year later, Emma says moving to Canada was one of the hardest — but also the best — decisions she has ever made.",
+  
+
+      "question": "What was one of the challenges she faced in Canada?",
+      "options": ["Language", "Weather", "Health", "Workload"],
+      "answer": "Weather"
+    },
+    {
+      "id": 5,
+        "level": "B1",
+  "skill": "reading",
+  "passage": "Last year, Emma decided to move to Canada to start a new life. She had been working as a teacher in England for ten years, but she felt it was time for a change. She applied for a teaching job in Toronto, got accepted, and began preparing for the big move. \n\nAt first, everything was exciting — the idea of living in a new country, meeting new people, and learning about a different culture. But once she arrived, things were more difficult than she expected. She didn’t know anyone, the weather was colder than she was used to, and she missed her family. \n\nEmma started to feel homesick, and there were moments when she wondered if she had made a mistake. However, she reminded herself why she came — to challenge herself, grow, and experience life in a new way. \n\nGradually, things got better. She made friends at work, joined a local hiking group, and even started taking French classes. One year later, Emma says moving to Canada was one of the hardest — but also the best — decisions she has ever made.",
+  
+
+      "question": "What does 'homesick' mean in this context?",
+      "options": ["Angry about her home", "Missing her home and family", "Sick with flu", "Afraid of moving again"],
+      "answer": "Missing her home and family"
+    },
+    {
+      "id": 6,
+        "level": "B1",
+  "skill": "reading",
+  "passage": "Last year, Emma decided to move to Canada to start a new life. She had been working as a teacher in England for ten years, but she felt it was time for a change. She applied for a teaching job in Toronto, got accepted, and began preparing for the big move. \n\nAt first, everything was exciting — the idea of living in a new country, meeting new people, and learning about a different culture. But once she arrived, things were more difficult than she expected. She didn’t know anyone, the weather was colder than she was used to, and she missed her family. \n\nEmma started to feel homesick, and there were moments when she wondered if she had made a mistake. However, she reminded herself why she came — to challenge herself, grow, and experience life in a new way. \n\nGradually, things got better. She made friends at work, joined a local hiking group, and even started taking French classes. One year later, Emma says moving to Canada was one of the hardest — but also the best — decisions she has ever made.",
+  
+
+      "question": "Why did Emma think she made a mistake?",
+      "options": ["She didn’t like the job", "She had no friends", "She missed her old life", "She got lost"],
+      "answer": "She missed her old life"
+    },
+    {
+      "id": 7,
+        "level": "B1",
+  "skill": "reading",
+  "passage": "Last year, Emma decided to move to Canada to start a new life. She had been working as a teacher in England for ten years, but she felt it was time for a change. She applied for a teaching job in Toronto, got accepted, and began preparing for the big move. \n\nAt first, everything was exciting — the idea of living in a new country, meeting new people, and learning about a different culture. But once she arrived, things were more difficult than she expected. She didn’t know anyone, the weather was colder than she was used to, and she missed her family. \n\nEmma started to feel homesick, and there were moments when she wondered if she had made a mistake. However, she reminded herself why she came — to challenge herself, grow, and experience life in a new way. \n\nGradually, things got better. She made friends at work, joined a local hiking group, and even started taking French classes. One year later, Emma says moving to Canada was one of the hardest — but also the best — decisions she has ever made.",
+  
+
+      "question": "What helped Emma feel better?",
+      "options": ["Going back to England", "Starting a family", "Making friends and joining groups", "Quitting her job"],
+      "answer": "Making friends and joining groups"
+    },
+    {
+      "id": 8,
+        "level": "B1",
+  "skill": "reading",
+  "passage": "Last year, Emma decided to move to Canada to start a new life. She had been working as a teacher in England for ten years, but she felt it was time for a change. She applied for a teaching job in Toronto, got accepted, and began preparing for the big move. \n\nAt first, everything was exciting — the idea of living in a new country, meeting new people, and learning about a different culture. But once she arrived, things were more difficult than she expected. She didn’t know anyone, the weather was colder than she was used to, and she missed her family. \n\nEmma started to feel homesick, and there were moments when she wondered if she had made a mistake. However, she reminded herself why she came — to challenge herself, grow, and experience life in a new way. \n\nGradually, things got better. She made friends at work, joined a local hiking group, and even started taking French classes. One year later, Emma says moving to Canada was one of the hardest — but also the best — decisions she has ever made.",
+  
+
+      "question": "What is the author’s tone at the end of the passage?",
+      "options": ["Regretful", "Neutral", "Hopeful", "Angry"],
+      "answer": "Hopeful"
+    },
+    {
+      "id": 9,
+        "level": "B1",
+  "skill": "reading",
+  "passage": "Last year, Emma decided to move to Canada to start a new life. She had been working as a teacher in England for ten years, but she felt it was time for a change. She applied for a teaching job in Toronto, got accepted, and began preparing for the big move. \n\nAt first, everything was exciting — the idea of living in a new country, meeting new people, and learning about a different culture. But once she arrived, things were more difficult than she expected. She didn’t know anyone, the weather was colder than she was used to, and she missed her family. \n\nEmma started to feel homesick, and there were moments when she wondered if she had made a mistake. However, she reminded herself why she came — to challenge herself, grow, and experience life in a new way. \n\nGradually, things got better. She made friends at work, joined a local hiking group, and even started taking French classes. One year later, Emma says moving to Canada was one of the hardest — but also the best — decisions she has ever made.",
+  
+
+      "question": "What can we guess about Emma's personality?",
+      "options": ["She avoids change", "She gives up easily", "She likes new challenges", "She prefers to stay at home"],
+      "answer": "She likes new challenges"
+    },
+    {
+      "id": 10,
+        "level": "B1",
+  "skill": "reading",
+  "passage": "Last year, Emma decided to move to Canada to start a new life. She had been working as a teacher in England for ten years, but she felt it was time for a change. She applied for a teaching job in Toronto, got accepted, and began preparing for the big move. \n\nAt first, everything was exciting — the idea of living in a new country, meeting new people, and learning about a different culture. But once she arrived, things were more difficult than she expected. She didn’t know anyone, the weather was colder than she was used to, and she missed her family. \n\nEmma started to feel homesick, and there were moments when she wondered if she had made a mistake. However, she reminded herself why she came — to challenge herself, grow, and experience life in a new way. \n\nGradually, things got better. She made friends at work, joined a local hiking group, and even started taking French classes. One year later, Emma says moving to Canada was one of the hardest — but also the best — decisions she has ever made.",
+  
+
+      "question": "What is the main idea of the text?",
+      "options": ["Moving is always fun", "Living abroad is easy", "Change is difficult but rewarding", "Canada is a cold country"],
+      "answer": "Change is difficult but rewarding"
+    }
+  ]
+

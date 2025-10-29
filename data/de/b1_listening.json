@@ -1,0 +1,86 @@
+[
+  {
+    "id": "b1_l_1",
+    "level": "B1",
+    "skill": "listening",
+    "question": "Der Termin von Frau Stein wird verschoben.",
+    "options": ["Richtig", "Falsch"],
+    "answer": "Richtig"
+  },
+  {
+    "id": "b1_l_2",
+    "level": "B1",
+    "skill": "listening",
+    "question": "Frau Stein soll ...",
+    "options": ["die Chipkarte mitbringen", "zehn Euro bezahlen", "zurückrufen"],
+    "answer": "zurückrufen"
+  },
+  {
+    "id": "b1_l_3",
+    "level": "B1",
+    "skill": "listening",
+    "question": "Herr Thomas informiert Frau Brahms über neue Versicherungstarife.",
+    "options": ["Richtig", "Falsch"],
+    "answer": "Falsch"
+  },
+  {
+    "id": "b1_l_4",
+    "level": "B1",
+    "skill": "listening",
+    "question": "Herr Thomas ...",
+    "options": [
+      "möchte, dass Frau Brahms einen neuen Vertrag abschließt",
+      "braucht Zeugnisse von Frau Brahms",
+      "ruft später noch einmal an"
+    ],
+    "answer": "braucht Zeugnisse von Frau Brahms"
+  },
+  {
+    "id": "b1_l_5",
+    "level": "B1",
+    "skill": "listening",
+    "question": "Sie hören Veranstaltungstipps für München.",
+    "options": ["Richtig", "Falsch"],
+    "answer": "Falsch"
+  },
+  {
+    "id": "b1_l_6",
+    "level": "B1",
+    "skill": "listening",
+    "question": "Auf der Autobahn gibt es Stau wegen ...",
+    "options": ["einer Baustelle", "des Berufsverkehrs", "eines Unfalls"],
+    "answer": "eines Unfalls"
+  },
+  {
+    "id": "b1_l_7",
+    "level": "B1",
+    "skill": "listening",
+    "question": "Sie hören eine Information für eine Reisegruppe.",
+    "options": ["Richtig", "Falsch"],
+    "answer": "Falsch"
+  },
+  {
+    "id": "b1_l_8",
+    "level": "B1",
+    "skill": "listening",
+    "question": "Welcher Zug fällt aus? Der Zug nach ...",
+    "options": ["Bern", "Genf", "Lausanne"],
+    "answer": "Genf"
+  },
+  {
+    "id": "b1_l_9",
+    "level": "B1",
+    "skill": "listening",
+    "question": "Das Wetter wird im Osten Deutschlands besser.",
+    "options": ["Richtig", "Falsch"],
+    "answer": "Falsch"
+  },
+  {
+    "id": "b1_l_10",
+    "level": "B1",
+    "skill": "listening",
+    "question": "Vorausgesagt werden ...",
+    "options": ["Gewitter an der Elbe", "Temperaturen unter 10 Grad", "starke Regenfälle im Westen"],
+    "answer": "Gewitter an der Elbe"
+  }
+]

@@ -1,0 +1,138 @@
+ [
+    {
+      "id": 1,
+       "level": "B2",
+  "skill": "grammar",
+
+      "question": "If I had studied harder, I ___ the exam.",
+      "options": ["would have passed", "will pass", "passed", "would pass"],
+      "answer": "would have passed"
+    },
+    {
+      "id": 2,
+           "level": "B2",
+  "skill": "grammar",
+
+      "question": "The documents ___ before the meeting started.",
+      "options": ["had been prepared", "were preparing", "prepared", "have prepared"],
+      "answer": "had been prepared"
+    },
+    {
+      "id": 3,
+           "level": "B2",
+  "skill": "grammar",
+
+      "question": "You ___ told me you were arriving early!",
+      "options": ["could have", "can", "must", "may have"],
+      "answer": "could have"
+    },
+    {
+      "id": 4,
+           "level": "B2",
+  "skill": "grammar",
+
+      "question": "He speaks English fluently, ___ he’s never lived in an English-speaking country.",
+      "options": ["although", "despite", "however", "because"],
+      "answer": "although"
+    },
+    {
+      "id": 5,
+           "level": "B2",
+  "skill": "grammar",
+
+      "question": "She acted as if she ___ everything.",
+      "options": ["knew", "knows", "has known", "know"],
+      "answer": "knew"
+    },
+    {
+      "id": 6,
+           "level": "B2",
+  "skill": "grammar",
+
+      "question": "I wish I ___ more time to finish the project.",
+      "options": ["had had", "have had", "would have", "had"],
+      "answer": "had had"
+    },
+    {
+      "id": 7,
+           "level": "B2",
+  "skill": "grammar",
+
+      "question": "The man ___ we spoke to was very kind.",
+      "options": ["whom", "which", "where", "whose"],
+      "answer": "whom"
+    },
+    {
+      "id": 8,
+           "level": "B2",
+  "skill": "grammar",
+
+      "question": "You shouldn’t have ___ her that. Now she’s upset.",
+      "options": ["told", "tell", "telling", "to tell"],
+      "answer": "told"
+    },
+    {
+      "id": 9,
+           "level": "B2",
+  "skill": "grammar",
+
+      "question": "It’s essential that every student ___ on time.",
+      "options": ["be", "is", "are", "was"],
+      "answer": "be"
+    },
+    {
+      "id": 10,
+           "level": "B2",
+  "skill": "grammar",
+
+      "question": "___ he tried, he couldn’t fix the computer.",
+      "options": ["However hard", "Although", "Because", "Unless"],
+      "answer": "However hard"
+    },
+    {
+      "id": 11,
+           "level": "B2",
+  "skill": "grammar",
+
+      "question": "Never ___ such a strange situation before.",
+      "options": ["have I seen", "I have seen", "did I see", "I saw"],
+      "answer": "have I seen"
+    },
+    {
+      "id": 12,
+           "level": "B2",
+  "skill": "grammar",
+
+      "question": "We brought an umbrella ___ it rained.",
+      "options": ["in case", "unless", "despite", "as if"],
+      "answer": "in case"
+    },
+    {
+      "id": 13,
+           "level": "B2",
+  "skill": "grammar",
+
+      "question": "That’s the scientist ___ discovery changed the world.",
+      "options": ["whose", "who", "whom", "which"],
+      "answer": "whose"
+    },
+    {
+      "id": 14,
+           "level": "B2",
+  "skill": "grammar",
+
+      "question": "They might ___ the train if they had left earlier.",
+      "options": ["have caught", "catch", "caught", "had caught"],
+      "answer": "have caught"
+    },
+    {
+      "id": 15,
+           "level": "B2",
+  "skill": "grammar",
+
+      "question": "He insisted that she ___ present at the meeting.",
+      "options": ["be", "is", "was", "has been"],
+      "answer": "be"
+    }
+  ]
+

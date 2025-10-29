@@ -1,0 +1,132 @@
+[
+    {
+        "id": 5001,
+        "level": "A2",
+        "skill": "grammar",
+        "question": "Ich gehe früh ins Bett, ___ ich morgen früh arbeiten muss.",
+        "options": [
+            "weil",
+            "obwohl",
+            "aber",
+            "denn"
+        ],
+        "answer": "weil"
+    },
+    {
+        "id": 5002,
+        "level": "A2",
+        "skill": "grammar",
+        "question": "Er hat den Bus verpasst, ___ er zu spät losgegangen ist.",
+        "options": [
+            "deshalb",
+            "obwohl",
+            "weil",
+            "damit"
+        ],
+        "answer": "weil"
+    },
+    {
+        "id": 5003,
+        "level": "A2",
+        "skill": "grammar",
+        "question": "Wenn ich Zeit habe, ___ ich meine Freunde.",
+        "options": [
+            "besuche",
+            "besucht",
+            "besuchen",
+            "besuchst"
+        ],
+        "answer": "besuche"
+    },
+    {
+        "id": 5004,
+        "level": "A2",
+        "skill": "grammar",
+        "question": "Du ___ mehr Wasser trinken, wenn du dich müde fühlst.",
+        "options": [
+            "solltest",
+            "musst",
+            "willst",
+            "kannst"
+        ],
+        "answer": "solltest"
+    },
+    {
+        "id": 5005,
+        "level": "A2",
+        "skill": "grammar",
+        "question": "Ich habe vergessen, den Computer ___.",
+        "options": [
+            "auszumachen",
+            "ausmacht",
+            "ausgemacht",
+            "ausmache"
+        ],
+        "answer": "auszumachen"
+    },
+    {
+        "id": 5006,
+        "level": "A2",
+        "skill": "grammar",
+        "question": "Obwohl es stark geregnet hat, ___ wir spazieren gegangen.",
+        "options": [
+            "sind",
+            "waren",
+            "haben",
+            "gehen"
+        ],
+        "answer": "sind"
+    },
+    {
+        "id": 5007,
+        "level": "A2",
+        "skill": "grammar",
+        "question": "Er hat das Auto in die Garage gefahren, ___ es zu hageln begann.",
+        "options": [
+            "bevor",
+            "nachdem",
+            "damit",
+            "weil"
+        ],
+        "answer": "bevor"
+    },
+    {
+        "id": 5008,
+        "level": "A2",
+        "skill": "grammar",
+        "question": "___ du das Fenster zumachst, wird es hier nicht warm.",
+        "options": [
+            "Wenn",
+            "Weil",
+            "Obwohl",
+            "Falls"
+        ],
+        "answer": "Wenn"
+    },
+    {
+        "id": 5009,
+        "level": "A2",
+        "skill": "grammar",
+        "question": "Ich freue mich ___ deinen Besuch.",
+        "options": [
+            "auf",
+            "über",
+            "mit",
+            "an"
+        ],
+        "answer": "auf"
+    },
+    {
+        "id": 5010,
+        "level": "A2",
+        "skill": "grammar",
+        "question": "Er wohnt seit zwei Jahren ___ seiner Tante.",
+        "options": [
+            "bei",
+            "zu",
+            "nach",
+            "von"
+        ],
+        "answer": "bei"
+    }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "a2_l2_q1",
+    "level": "A2",
+    "skill": "listening",
+    "question": "Sarah hatte am Anfang in Deutschland Probleme.",
+    "options": ["Richtig", "Falsch"],
+    "answer": "Falsch",
+    "audio": "/audio/german/a2-hoerverstehen.mp3"
+  },
+  {
+    "id": "a2_l2_q2",
+    "level": "A2",
+    "skill": "listening",
+    "question": "Ihre Geschwister haben ihr das Fußballspielen gezeigt.",
+    "options": ["Richtig", "Falsch"],
+    "answer": "Richtig",
+    "audio": "/audio/german/a2-hoerverstehen.mp3"
+  },
+  {
+    "id": "a2_l2_q3",
+    "level": "A2",
+    "skill": "listening",
+    "question": "Ihr Lehrer hat ihr einen Verein empfohlen.",
+    "options": ["Richtig", "Falsch"],
+    "answer": "Richtig",
+    "audio": "/audio/german/a2-hoerverstehen.mp3"
+  },
+  {
+    "id": "a2_l2_q4",
+    "level": "A2",
+    "skill": "listening",
+    "question": "Sarah hat schon bei vielen internationalen Spielen mitgespielt.",
+    "options": ["Richtig", "Falsch"],
+    "answer": "Falsch",
+    "audio": "/audio/german/a2-hoerverstehen.mp3"
+  },
+  {
+    "id": "a2_l2_q5",
+    "level": "A2",
+    "skill": "listening",
+    "question": "Sie studiert jetzt Sport an der Universität.",
+    "options": ["Richtig", "Falsch"],
+    "answer": "Falsch",
+    "audio": "/audio/german/a2-hoerverstehen.mp3"
+  }
+]

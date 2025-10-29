@@ -1,0 +1,262 @@
+[
+    {
+        "id": 2001,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "Ich ___ Student.",
+        "options": [
+            "bin",
+            "bist",
+            "ist",
+            "seid"
+        ],
+        "answer": "bin"
+    },
+    {
+        "id": 2002,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "Wie ___ du?",
+        "options": [
+            "heiße",
+            "heißt",
+            "heiß",
+            "heißen"
+        ],
+        "answer": "heißt"
+    },
+    {
+        "id": 2003,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "Wir ___ in Köln.",
+        "options": [
+            "wohne",
+            "wohnen",
+            "wohnt",
+            "wohnst"
+        ],
+        "answer": "wohnen"
+    },
+    {
+        "id": 2004,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "Das ist ___ Tisch.",
+        "options": [
+            "der",
+            "die",
+            "das",
+            "den"
+        ],
+        "answer": "der"
+    },
+    {
+        "id": 2005,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "Sie ___ sehr nett.",
+        "options": [
+            "bist",
+            "bin",
+            "ist",
+            "seid"
+        ],
+        "answer": "ist"
+    },
+    {
+        "id": 2006,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "Wir ___ eine Wohnung in Berlin.",
+        "options": [
+            "haben",
+            "hat",
+            "hast",
+            "habt"
+        ],
+        "answer": "haben"
+    },
+    {
+        "id": 2007,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "Peter und Lisa ___ Geschwister.",
+        "options": [
+            "bist",
+            "seid",
+            "sind",
+            "ist"
+        ],
+        "answer": "sind"
+    },
+    {
+        "id": 2008,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "Was ___ du am Wochenende?",
+        "options": [
+            "macht",
+            "machen",
+            "machst",
+            "mache"
+        ],
+        "answer": "machst"
+    },
+    {
+        "id": 2009,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "Er ___ jeden Morgen um 7 Uhr auf.",
+        "options": [
+            "steht",
+            "stehe",
+            "stehst",
+            "stehen"
+        ],
+        "answer": "steht"
+    },
+    {
+        "id": 2010,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "___ du eine Schwester?",
+        "options": [
+            "Hat",
+            "Haben",
+            "Hast",
+            "Habt"
+        ],
+        "answer": "Hast"
+    },
+    {
+        "id": 2011,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "Ich kaufe ___ Apfel und ___ Banane.",
+        "options": [
+            "einen / eine",
+            "ein / eine",
+            "einen / einen",
+            "eine / eine"
+        ],
+        "answer": "einen / eine"
+    },
+    {
+        "id": 2012,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "Am Wochenende ___ wir oft ins Kino.",
+        "options": [
+            "gehen",
+            "geht",
+            "gehst",
+            "gehe"
+        ],
+        "answer": "gehen"
+    },
+    {
+        "id": 2013,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "Meine Mutter kocht gern, ___ sie hat wenig Zeit.",
+        "options": [
+            "aber",
+            "denn",
+            "und",
+            "oder"
+        ],
+        "answer": "aber"
+    },
+    {
+        "id": 2014,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "Warum ___ du so spät zur Arbeit?",
+        "options": [
+            "kommst",
+            "kommen",
+            "kommt",
+            "komme"
+        ],
+        "answer": "kommst"
+    },
+    {
+        "id": 2015,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "Er hat einen Hund, ___ er liebt sehr.",
+        "options": [
+            "den",
+            "der",
+            "die",
+            "das"
+        ],
+        "answer": "den"
+    },
+    {
+        "id": 2016,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "Peter kann heute nicht zur Party kommen, ___ er ist krank.",
+        "options": [
+            "denn",
+            "aber",
+            "oder",
+            "weil"
+        ],
+        "answer": "denn"
+    },
+    {
+        "id": 2017,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "Ich mache heute keine Hausaufgaben, ___ ich bin sehr müde.",
+        "options": [
+            "weil",
+            "aber",
+            "denn",
+            "und"
+        ],
+        "answer": "weil"
+    },
+    {
+        "id": 2018,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "Welche Satzstellung ist korrekt?",
+        "options": [
+            "Heute ich gehe ins Kino.",
+            "Ich gehe heute ins Kino.",
+            "Gehe ich heute ins Kino.",
+            "Ins Kino gehe heute ich."
+        ],
+        "answer": "Ich gehe heute ins Kino."
+    },
+    {
+        "id": 2019,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "Ich esse nicht gern Fisch, ___ ich esse gern Fleisch.",
+        "options": [
+            "aber",
+            "denn",
+            "weil",
+            "und"
+        ],
+        "answer": "aber"
+    },
+    {
+        "id": 2020,
+        "level": "A1",
+        "skill": "grammar",
+        "question": "Er geht ___ Schule mit dem Fahrrad.",
+        "options": [
+            "zur",
+            "zu",
+            "an",
+            "nach"
+        ],
+        "answer": "zur"
+    }
+]

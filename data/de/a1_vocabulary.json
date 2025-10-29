@@ -1,0 +1,132 @@
+[
+    {
+        "id": 3001,
+        "level": "A1",
+        "skill": "vocabulary",
+        "question": "Ich muss heute noch zur ___ gehen, weil ich Zahnschmerzen habe.",
+        "options": [
+            "Apotheke",
+            "Bank",
+            "Schule",
+            "Zahnärztin"
+        ],
+        "answer": "Zahnärztin"
+    },
+    {
+        "id": 3002,
+        "level": "A1",
+        "skill": "vocabulary",
+        "question": "Meine Wohnung ist im dritten ___, also müssen Sie die Treppe hochgehen.",
+        "options": [
+            "Stock",
+            "Laden",
+            "Tür",
+            "Bett"
+        ],
+        "answer": "Stock"
+    },
+    {
+        "id": 3003,
+        "level": "A1",
+        "skill": "vocabulary",
+        "question": "Am Sonntag sind viele Geschäfte ___, also kann man nicht einkaufen.",
+        "options": [
+            "offen",
+            "geschlossen",
+            "billig",
+            "leer"
+        ],
+        "answer": "geschlossen"
+    },
+    {
+        "id": 3004,
+        "level": "A1",
+        "skill": "vocabulary",
+        "question": "Mein Bruder ist sehr ___ – er redet nicht gern mit anderen Leuten.",
+        "options": [
+            "laut",
+            "freundlich",
+            "ruhig",
+            "schüchtern"
+        ],
+        "answer": "schüchtern"
+    },
+    {
+        "id": 3005,
+        "level": "A1",
+        "skill": "vocabulary",
+        "question": "Ich brauche einen neuen ___, weil ich jeden Tag viele E-Mails schreiben muss.",
+        "options": [
+            "Stuhl",
+            "Kühlschrank",
+            "Computer",
+            "Teller"
+        ],
+        "answer": "Computer"
+    },
+    {
+        "id": 3006,
+        "level": "A1",
+        "skill": "vocabulary",
+        "question": "Wenn ich Fieber habe, gehe ich zum ___.",
+        "options": [
+            "Bäcker",
+            "Arzt",
+            "Lehrer",
+            "Nachbarn"
+        ],
+        "answer": "Arzt"
+    },
+    {
+        "id": 3007,
+        "level": "A1",
+        "skill": "vocabulary",
+        "question": "Meine Tochter braucht neue ___ für die Schule.",
+        "options": [
+            "Schuhe",
+            "Messer",
+            "Teller",
+            "Lampen"
+        ],
+        "answer": "Schuhe"
+    },
+    {
+        "id": 3008,
+        "level": "A1",
+        "skill": "vocabulary",
+        "question": "Zum Frühstück esse ich oft ein Brötchen mit ___.",
+        "options": [
+            "Käse",
+            "Wasser",
+            "Reis",
+            "Salz"
+        ],
+        "answer": "Käse"
+    },
+    {
+        "id": 3009,
+        "level": "A1",
+        "skill": "vocabulary",
+        "question": "Im Wohnzimmer steht ein Sofa und ein ___.",
+        "options": [
+            "Schrank",
+            "Bett",
+            "Tisch",
+            "Stuhl"
+        ],
+        "answer": "Tisch"
+    },
+    {
+        "id": 3010,
+        "level": "A1",
+        "skill": "vocabulary",
+        "question": "Er geht jeden Abend ___, weil er fit bleiben will.",
+        "options": [
+            "lesen",
+            "essen",
+            "joggen",
+            "arbeiten"
+        ],
+        "answer": "joggen"
+    }
+]

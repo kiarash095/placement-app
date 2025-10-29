@@ -1,0 +1,109 @@
+[
+  {
+    "id": "a2_lis_1",
+    "level": "A2",
+    "skill": "listening",
+    "type": "gap-fill",
+    "audio": "/audios/english/a2-hoerverstehen.mp3",
+    "question": "Fill in the blank: Surname",
+    "answer": "William"
+  },
+  {
+    "id": "a2_lis_2",
+    "level": "A2",
+    "skill": "listening",
+    "type": "gap-fill",
+    "audio": "/audios/english/a2-hoerverstehen.mp3",
+    "question": "Fill in the blank: Age",
+    "answer": "15"
+  },
+  {
+    "id": "a2_lis_3",
+    "level": "A2",
+    "skill": "listening",
+    "type": "gap-fill",
+    "audio": "/audios/english/a2-hoerverstehen.mp3",
+    "question": "Fill in the blank: Interested in (sport)",
+    "answer": "water polo"
+  },
+  {
+    "id": "a2_lis_4",
+    "level": "A2",
+    "skill": "listening",
+    "type": "true-false",
+    "audio": "/audios/english/a2-hoerverstehen.mp3",
+    "question": "There are four different age groups that play water polo.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "id": "a2_lis_5",
+    "level": "A2",
+    "skill": "listening",
+    "type": "true-false",
+    "audio": "/audios/english/a2-hoerverstehen.mp3",
+    "question": "Tyrone wants to join the under 14s club.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "id": "a2_lis_6",
+    "level": "A2",
+    "skill": "listening",
+    "type": "true-false",
+    "audio": "/audios/english/a2-hoerverstehen.mp3",
+    "question": "The under 16s water polo team train three times a week.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "id": "a2_lis_7",
+    "level": "A2",
+    "skill": "listening",
+    "type": "true-false",
+    "audio": "/audios/english/a2-hoerverstehen.mp3",
+    "question": "The under 16s train on Monday and Thursday.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "id": "a2_lis_8",
+    "level": "A2",
+    "skill": "listening",
+    "type": "true-false",
+    "audio": "/audios/english/a2-hoerverstehen.mp3",
+    "question": "Water polo matches are played on Saturdays.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "id": "a2_lis_9",
+    "level": "A2",
+    "skill": "listening",
+    "type": "true-false",
+    "audio": "/audios/english/a2-hoerverstehen.mp3",
+    "question": "You have to pay to join the water polo classes for under 18s.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "id": "a2_lis_10",
+    "level": "A2",
+    "skill": "listening",
+    "type": "true-false",
+    "audio": "/audios/english/a2-hoerverstehen.mp3",
+    "question": "You need to bring a photo to register at the swimming pool.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "id": "a2_lis_11",
+    "level": "A2",
+    "skill": "listening",
+    "type": "true-false",
+    "audio": "/audios/english/a2-hoerverstehen.mp3",
+    "question": "Training for the water polo team starts this week.",
+    "options": ["True", "False"],
+    "answer": "False"
+  }
+]

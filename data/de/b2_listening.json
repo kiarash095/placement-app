@@ -1,0 +1,74 @@
+[
+  {
+    "id": 11,
+    "level": "B2",
+    "skill": "listening",
+    "question": "Frau Neuhaus findet es für unsere zukünftige Ernährung wichtig, …",
+    "options": [
+      "an die Konsequenzen unserer Entscheidung zu denken.",
+      "uns mit Fleisch und Fisch zu ernähren.",
+      "mehr Erbsen und Sojabohnen zu essen."
+    ],
+    "answer": "an die Konsequenzen unserer Entscheidung zu denken."
+  },
+  {
+    "id": 12,
+    "level": "B2",
+    "skill": "listening",
+    "question": "Was ist die Ursache für wachsenden Fleischkonsum?",
+    "options": [
+      "Die Fleischproduktion ist gestiegen.",
+      "Die Weltbevölkerung ist gewachsen.",
+      "Mehr Menschen haben genug Geld für Fleisch."
+    ],
+    "answer": "Mehr Menschen haben genug Geld für Fleisch."
+  },
+  {
+    "id": 13,
+    "level": "B2",
+    "skill": "listening",
+    "question": "Warum sehen viele in Insekten eine Alternative zu Fleisch?",
+    "options": [
+      "Sie lassen sich gut zu Schokolade verarbeiten.",
+      "Es gibt viele Zubereitungsarten.",
+      "Sie schmecken wie Hähnchenfleisch."
+    ],
+    "answer": "Es gibt viele Zubereitungsarten."
+  },
+  {
+    "id": 14,
+    "level": "B2",
+    "skill": "listening",
+    "question": "Warum isst man in Asien heute Insekten? Dort …",
+    "options": [
+      "gibt es viele verschiedene Insekten.",
+      "ist das Insekten-Essen selbstverständlich.",
+      "werden Insekten industriell produziert."
+    ],
+    "answer": "ist das Insekten-Essen selbstverständlich."
+  },
+  {
+    "id": 15,
+    "level": "B2",
+    "skill": "listening",
+    "question": "Was ist der Vorteil einer Landwirtschaft in städtischen Gebieten?",
+    "options": [
+      "Der Wasserverbrauch sinkt.",
+      "Man spart Strom.",
+      "Sie ist für alle Nutzpflanzen geeignet."
+    ],
+    "answer": "Der Wasserverbrauch sinkt."
+  },
+  {
+    "id": 16,
+    "level": "B2",
+    "skill": "listening",
+    "question": "Was bedeutet „individualisierte Landwirtschaft“?",
+    "options": [
+      "Die Produktion passt sich an das einzelne Tier an.",
+      "Computer zeigen an, wie viel Milch eine Kuh gegeben hat.",
+      "Die Qualität der Milchprodukte steigt."
+    ],
+    "answer": "Die Produktion passt sich an das einzelne Tier an."
+  }
+]
