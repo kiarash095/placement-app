@@ -1,11 +1,11 @@
 "use client";
-
+import { Suspense } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
 import { motion } from "framer-motion";
 import { CheckCircle2, Home } from "lucide-react";
-export const dynamic = 'force-dynamic';
+export const dynamic = "force-dynamic";
 
-export default function ResultQueryPage() {
+function ResultContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
 
@@ -73,5 +73,13 @@ export default function ResultQueryPage() {
         </motion.button>
       </motion.div>
     </div>
+  );
+}
+
+export default function ResultQueryPage() {
+  return (
+    <Suspense fallback={<div className="p-10 text-center">در حال بارگذاری...</div>}>
+      <ResultContent />
+    </Suspense>
   );
 }
