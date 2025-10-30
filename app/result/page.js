@@ -3,6 +3,7 @@
 import { useSearchParams, useRouter } from "next/navigation";
 import { motion } from "framer-motion";
 import { CheckCircle2, Home } from "lucide-react";
+export const dynamic = 'force-dynamic';
 
 export default function ResultQueryPage() {
   const searchParams = useSearchParams();
