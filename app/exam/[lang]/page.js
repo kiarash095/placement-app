@@ -18,6 +18,8 @@ import { useRouter, useParams } from "next/navigation";
  * مثال: /audio/de/a1-hoerverstehen.mp3
  */
 
+const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8080";
+
 const LEVEL_ORDER = ["A1", "A2", "B1", "B2", "C1", "C2"];
 const SKILL_ORDER = ["grammar", "vocabulary", "listening", "reading"];
 const EXAM_DURATION = 45 * 60; // 45 minutes in seconds
@@ -45,13 +47,14 @@ export default function ExamPageClient() {
   const timerRef = useRef(null);
   const mountedRef = useRef(true);
 
+
   // ---------------- load questions ----------------
   useEffect(() => {
     mountedRef.current = true;
     const load = async () => {
       setLoading(true);
       try {
-        const res = await fetch("/api/exam/start", {
+        const res = await fetch("${API_BASE}/api/exam/start", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ lang }),
@@ -272,7 +275,7 @@ const handleSubmit = async () => {
     const language = lang;
     const token = localStorage.getItem("token");
 
-    const res = await fetch("/api/results", {
+    const res = await fetch("${API_BASE}/api/results", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
